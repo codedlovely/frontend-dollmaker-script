@@ -1,0 +1,21 @@
+{
+    "Prop-path": ["/assets/props/Cupcakes/"],
+
+    "Base": [
+        "cupcake-base01.png",
+        "cupcake-base02.png",
+        "cupcake-base03.png",
+        "cupcake-base04.png"
+    ],
+    "Icing": [
+        "cupcake-icing01.png",
+        "cupcake-icing02.png",
+        "cupcake-icing03.png",
+        "cupcake-icing04.png",
+        "cupcake-icing05.png"
+    ],
+    "Topping": [
+        "cupcake-top01.png",
+        "cupcake-top02.png"
+    ]
+}
