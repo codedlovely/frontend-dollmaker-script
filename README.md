@@ -1,5 +1,7 @@
 # Frontend Dollmaker Script
 
+** Demo:** https://dollmaker.netlify.app/
+
 This repository contains a fully frontend-based dollmaker implementation. It runs entirely in the browser using HTML, CSS, JavaScript, and JSON files for part configuration. No backend or server-side processing is required.
 
 ## Features
@@ -19,6 +21,7 @@ Unlike the legendary backend-based dollmaker scripts that used full drag-and-dro
 
 - Parts are **added to the build area by clicking** on an item in the drawer.
 - Once added, parts **can be moved freely by dragging** within the build area.
+- Double click/tap and hold to select single part in the build area.
 
 This approach keeps the UI simple while still allowing flexible placement.
 

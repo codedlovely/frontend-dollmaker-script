@@ -235,7 +235,7 @@ document.getElementById("saveBtn").addEventListener("click", () => {
   ctx.font = "12px sans-serif";
   ctx.fillStyle = "rgba(0,0,0,0.9)";
   ctx.textAlign = "center";
-  ctx.fillText("Dollmaker by Poetic Dolls", canvas.width / 2, canvas.height - 5);
+  ctx.fillText("Frontend Dollmaker Script", canvas.width / 2, canvas.height - 5);
   ctx.restore();
 
   // PNG format
